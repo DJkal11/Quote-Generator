@@ -1,0 +1,35 @@
+
+
+#quote-box{
+  border: 1px solid black;
+  text-align: center;
+  width: 40%;
+  padding: 80px 0;
+  margin-top: 15%;
+  margin-left: 30%;
+  position: relative;
+  background-color: white;
+  border-radius: 2%;
+  
+}
+
+#test{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+
+#author{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  bottom: 10%;
+  left: 3%;
+  font-size: 10px;
+}
+
+#new-quote{
+  position: absolute;
+  border-radius: 10%;
+  right: 5%;
+  bottom: 5%;
+  
+}
